@@ -9,13 +9,13 @@ This script automates the installation of VirtualBox on an Arch Linux system. It
 2. Make the script executable:
 
     ```bash
-    chmod +x install_virtualbox.sh
+    chmod +x install_virtual_box.sh
     ```
 
 3. Run the script:
 
     ```bash
-    ./install_virtualbox.sh
+    ./install_virtual_box.sh
     ```
 
 ## Notes
